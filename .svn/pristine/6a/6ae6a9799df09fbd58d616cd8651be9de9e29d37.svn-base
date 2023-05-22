@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web-report-ws:war" />
+      <artifact name="web-report:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278ebdf2-bfd8-4d20-8f98-aaca153dd64b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GtFcz0qXy64wOyjW8AgOzn5w63" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BuiCong/Work/webreport_backend/common-ws&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20804597&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;15249a09af1dcd2ab2085b1196740f0e&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HiuNV\Lao\Project\web_report\Source\backend\common-ws\src\main\java\com\sm\base\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sm.base.controller" />
+      <recent name="com.sm.base.dto" />
+      <recent name="com.sm.base.model.modelReport" />
+      <recent name="com.sm.base.service.Impl" />
+      <recent name="com.sm.base.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="common-ws" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sm.base.Runner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278ebdf2-bfd8-4d20-8f98-aaca153dd64b" name="Default Changelist" comment="" />
+      <created>1667200057421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667200057421</updated>
+      <workItem from="1667200058586" duration="111000" />
+      <workItem from="1667200180152" duration="8862000" />
+      <workItem from="1667295931799" duration="2645000" />
+      <workItem from="1667353133717" duration="21972000" />
+      <workItem from="1667439494695" duration="9915000" />
+      <workItem from="1667525959870" duration="3205000" />
+      <workItem from="1667529209485" duration="1497000" />
+      <workItem from="1667530733458" duration="11601000" />
+      <workItem from="1667547753826" duration="2146000" />
+      <workItem from="1667785184502" duration="90000" />
+      <workItem from="1667785289667" duration="5589000" />
+      <workItem from="1667805752621" duration="12469000" />
+      <workItem from="1667874809750" duration="6992000" />
+      <workItem from="1667984561751" duration="28000" />
+      <workItem from="1667984605944" duration="1222000" />
+      <workItem from="1668156512309" duration="25000" />
+      <workItem from="1669172689574" duration="3439000" />
+      <workItem from="1669177377629" duration="9288000" />
+      <workItem from="1669255125326" duration="14396000" />
+      <workItem from="1670214609601" duration="13403000" />
+      <workItem from="1670291380130" duration="17208000" />
+      <workItem from="1670464111330" duration="11480000" />
+      <workItem from="1670557417392" duration="11096000" />
+      <workItem from="1670809618464" duration="21953000" />
+      <workItem from="1670857093736" duration="666000" />
+      <workItem from="1670858545301" duration="9769000" />
+      <workItem from="1670914177272" duration="4089000" />
+      <workItem from="1671011669526" duration="192000" />
+      <workItem from="1671012578760" duration="1736000" />
+      <workItem from="1671068434161" duration="9153000" />
+      <workItem from="1671177726025" duration="19000" />
+      <workItem from="1671177763114" duration="9576000" />
+      <workItem from="1671414558783" duration="19728000" />
+      <workItem from="1671500674288" duration="15597000" />
+      <workItem from="1671587670729" duration="9674000" />
+      <workItem from="1671611355148" duration="4763000" />
+      <workItem from="1671675279680" duration="8117000" />
+      <workItem from="1671760201923" duration="21991000" />
+      <workItem from="1671794199330" duration="140000" />
+      <workItem from="1672023358062" duration="10553000" />
+      <workItem from="1672105799947" duration="8278000" />
+      <workItem from="1672218930322" duration="4190000" />
+      <workItem from="1672289671206" duration="9446000" />
+      <workItem from="1672366571510" duration="4440000" />
+      <workItem from="1672715720684" duration="6632000" />
+      <workItem from="1672728007436" duration="1413000" />
+      <workItem from="1672735003074" duration="2889000" />
+      <workItem from="1675157733149" duration="3182000" />
+      <workItem from="1675161693831" duration="456000" />
+      <workItem from="1675217020089" duration="3555000" />
+      <workItem from="1675235871700" duration="14000" />
+      <workItem from="1675846103552" duration="967000" />
+      <workItem from="1675926478777" duration="2577000" />
+      <workItem from="1676259999184" duration="65000" />
+      <workItem from="1676261374711" duration="1092000" />
+      <workItem from="1676358395306" duration="70000" />
+      <workItem from="1676521882545" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/StaffCtrl.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/service/Impl/TbltruyvanServiceImpl.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>800</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>502</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>518</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>543</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>348</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sm/base/controller/TbltruyvanCtrl.java</url>
+          <line>532</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/common_ws$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1670473007861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

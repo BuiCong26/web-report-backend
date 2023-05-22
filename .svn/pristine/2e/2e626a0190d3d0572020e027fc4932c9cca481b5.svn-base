@@ -1,0 +1,20 @@
+${AnsiColor.RED}******************************************************************************************
+ ${AnsiColor.BRIGHT_GREEN}Service: ${spring.application.name}${AnsiColor.WHITE}
+ ${AnsiColor.BRIGHT_GREEN}Spring boot (${spring-boot.version})${AnsiColor.WHITE}
+${AnsiColor.RED}******************************************************************************************
+*${AnsiColor.BRIGHT_GREEN}          ...............    . ......... .        .......  ......                .....  ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}      ......................  ............      ..........  ......            ......... ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}    .........................  ...........     ............  ......          .......... ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}  ...........................  ............ . .............. .......       ...........  ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}  ........... ..............  .............  ................ ......      ...........   ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}  .............            ................ ......... .......  ......    ...........    ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}  ..........................  ...... ...... ......... ........ ......   ...........     ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}    ..........................  .... ...... ........ ......... ......  ...........      ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}      .........................  ... ...... ........ .........  ..... ...........       ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}            ....................  .. ............... .......... ..... ..........        ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}   ..............   ............  .. ..............  .......... ...............         ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}................................  .   ............    ......... ..............          ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}................................ ..     ........      ........ .............            ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}  ............................  ..      .     .        ......    .........              ${AnsiColor.RED}*
+*${AnsiColor.BRIGHT_GREEN}       ...................   ... Developed by ® SmartViet Software Solution             ${AnsiColor.RED}*
+******************************************************************************************

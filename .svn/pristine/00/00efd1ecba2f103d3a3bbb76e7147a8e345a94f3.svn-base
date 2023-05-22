@@ -1,0 +1,78 @@
+#db1:
+#  datasource:
+#    type: com.zaxxer.hikari.HikariDataSource
+#    jdbcUrl: jdbc:oracle:thin:@(DESCRIPTION=(ENABLE=broken)(LOAD_BALANCE=ON)(ADDRESS=(PROTOCOL=TCP)(HOST=10.78.3.65)(PORT=1521))(CONNECT_DATA=(SERVER=SHARED)(SERVICE_NAME=bccs3test)))
+#    driverClassName: oracle.jdbc.OracleDriver
+#    username: BCCS_IM
+#    password: 135246aA
+#    pool-name: datasource-pool-oracle
+#    maximum-pool-size: 100
+#    minimum-idle: 100
+#    max-lifetime: 600000
+#    schema: BCCS_IM
+#db2:
+#  datasource:
+#    jdbcUrl: jdbc:mysql://10.120.52.91:3306/ecom_sale_sim
+#    driverClassName: com.mysql.jdbc.Driver
+#    username: ecom_sale_sim
+#    password: StL@6789
+#    hiraki:
+#      pool-name: maria-db-pool
+#      maximum-pool-size: 100
+#      minimum-idle: 10
+#      max-lifetime: 600000
+report:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    jdbcUrl: jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 10.120.44.218)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = testlab)))
+    driverClassName: oracle.jdbc.OracleDriver
+    username: BILLING_WEB
+    password: abcd1234
+    pool-name: datasource-pool-oracle
+    maximum-pool-size: 100
+    minimum-idle: 100
+    max-lifetime: 600000
+    schema: BILLING_WEB
+server:
+  port: 8322
+  system:
+    name: WEB_REPORT
+  vsa:
+    url: http://10.120.8.117:8042/passportv3/passportWS?wsdl
+  ip:
+    local: 127.0.0.1
+
+spring:
+  task:
+    scheduling:
+      pool:
+        size: 15
+  jpa:
+    properties:
+      hibernate:
+        proc.param_null_passing: true
+  banner:
+    location: config/banner.smv
+key:
+  token:
+    secret: smv123456a@ #key ma hoa cac loai du lieu. dung bang lib viettel-security-2.0
+  public:
+    salt: '[keysalttocheckuser]' #salt de ghep vao cac phan muon ma hoa theo dang ENC(pass+salt)
+    separator: ------ #Dau ngan cach cac phan truoc khi ma hoa dang ENC(username+separator+ENC(pass+salt))
+job:
+  scheduler:
+    times-delay: 10000
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+        type:
+          descriptor:
+            sql:
+              BasicBinder: TRACE
+      springframework:
+        jdbc:
+          core:
+            JdbcTemplate: DEBUG
+            StatementCreatorUtils: TRACE

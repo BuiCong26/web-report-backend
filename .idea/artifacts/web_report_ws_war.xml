@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-report-ws:war">
+    <output-path>$PROJECT_DIR$/common-ws/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>web-report-ws</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web-report-ws-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="web-report-ws:war exploded" />
+    </root>
+  </artifact>
+</component>
